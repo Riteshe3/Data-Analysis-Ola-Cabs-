@@ -109,3 +109,34 @@ to help Ola optimize performance and enhance the customer experience.
   	- Auto-retry or reallocation mechanisms for failed bookings to recover otherwise lost revenue.
 5. Optimize Arrival Time with AI
   	- Improve pickup time predictions using real-time traffic, weather, and demand patterns
+
+## Revenue
+![Revenue 4](https://github.com/user-attachments/assets/f97ab636-d1c9-4840-8321-69c25f3c283e)
+
+### Key Metrics:
+1. Total Bookings (Attempted): 12,652
+2. Total Successful Booking Value: ₹6,900,234
+3. Average Booking Value: ₹545.4
+
+4. Booking Value by Payment mode
+  	- Cash: ₹3,821,738 (55.4%)
+  	- UPI: ₹2,763,547 (40.0%)
+  	- Credit Card: ₹249,494 (3.6%)
+  	- Debit Card: ₹65,455 (0.9%)
+
+Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high dependence on instant payment methods.
+	 But still Cash Dominates.
+
+### Problem Identification Insights
+1. Heavy Dependence on Cash
+  	- Cash dominates with 55.4% of revenue.
+  	- This increases risk of fraud, reconciliation errors, and poor tracking.
+### Suggested Solutions
+1. Promote Digital Payments
+  	- Offer UPI/Card incentives (discounts, loyalty points).
+  	- Use driver training to nudge digital transactions.
+2. Analyze Spend Patterns
+  	- Understand what ride types these top customers prefer and replicate conditions to convert mid-tier users 
+    	  to high-value.
+
+

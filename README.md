@@ -74,3 +74,38 @@ to help Ola optimize performance and enhance the customer experience.
   	- Correlate booking dips with external events (e.g., weather, holidays) or system performance.
   	- Implement targeted marketing or surge driver supply in advance.
 
+## Bookings
+![Bookings 2](https://github.com/user-attachments/assets/1e9c97f4-db62-4877-98d2-222a0ffd1fe2)
+
+### Key Metrics:
+1. Total Successful Bookings: 12,652
+2. Total Booking Value: ₹6,900,234
+3. Average Booking Value: ₹545
+4. Sum Ride Distance: 289,000 km
+5. Average Ride Distance: 14.16 km
+6. Average Arrival Time: 170.64 seconds (~2.85 minutes)
+
+### Booking Status Breakdown
+1. Success: 62% → 12,652 bookings
+2. Cancelled by Driver: 17.91% → ≈3,654 bookings
+3. Cancelled by Customer: 10.2% → ≈2,081 bookings
+4. Driver Not Found: 9.9% → ≈2,020 bookings
+
+### Problem Identification Insights
+1. Driver Cancellations are High: Nearly 18% of bookings are canceled by drivers — that’s 3,654 lost trips, impacting both customer experience and revenue.
+2. Significant Booking Losses from "Driver Not Found": Over 2,000 bookings failed due to no driver being available — likely due to driver unavailability during peak hours or sparse locations.
+3. Only 62% of Users Complete Bookings: A large share of traffic does not convert into successful rides.
+4. Arrival Time is Fair but Optimizable: 2.85 minutes is competitive, but further reduction can help improve conversion rate and reduce customer cancellations.
+
+### Suggested Solutions
+
+1. Tackle Driver Cancellations
+  	- Use driver behavior analytics to flag repeat cancelers.
+2. Expand Supply in Under-Served Zones
+  	- Target locations with high “Driver Not Found” rates with driver onboarding or repositioning strategies.
+3. Minimum Fare Adjustments
+  	- Consider minimum fare thresholds for short-distance rides to protect margins.
+4. Customer Engagement for Recovery
+  	- Auto-retry or reallocation mechanisms for failed bookings to recover otherwise lost revenue.
+5. Optimize Arrival Time with AI
+  	- Improve pickup time predictions using real-time traffic, weather, and demand patterns

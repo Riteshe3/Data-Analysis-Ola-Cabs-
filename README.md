@@ -139,40 +139,10 @@ Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high depend
   	- Understand what ride types these top customers prefer and replicate conditions to convert mid-tier users 
     	  to high-value.
 
-# Revenue
-## Key Metrics:
-1. Total Bookings (Attempted): 12,652
-2. Total Successful Booking Value: ₹6,900,234
-3. Average Booking Value: ₹545.4
-
-4. Booking Value by Payment mode
-  - Cash: ₹3,821,738 (55.4%)
-
-  - UPI: ₹2,763,547 (40.0%)
-
-  - Credit Card: ₹249,494 (3.6%)
-
-  - Debit Card: ₹65,455 (0.9%)
-
-Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high dependence on instant payment methods.
-	 But still Cash Dominates.
-
-## Problem Identification Insights
-1. Heavy Dependence on Cash
-  - Cash dominates with 55.4% of revenue.
-  - This increases risk of fraud, reconciliation errors, and poor tracking.
-
-## Suggested Solutions
-1. Promote Digital Payments
-  - Offer UPI/Card incentives (discounts, loyalty points).
-  - Use driver training to nudge digital transactions.
-
-2. Analyze Spend Patterns
-  - Understand what ride types these top customers prefer and replicate conditions to convert mid-tier users 
-    to high-value.
-
 
 ## Cancellations
+![Cancelations 5](https://github.com/user-attachments/assets/ee688858-550d-46e9-91bc-1af5717f2590)
+
 ### Key Metrics:
 1. Total Bookings: 20,407
 2. Successful Bookings: 12,652

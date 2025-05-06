@@ -49,30 +49,28 @@ to help Ola optimize performance and enhance the customer experience.
 
 ### Problem Identification Insights
 1. High Cancellation Rate:
-  - Nearly 38% of all bookings failed, which is a major issue.
-  - Driver side Cancellations (17.9%) are the biggest contributor and need immediate attention.
+  	- Nearly 38% of all bookings failed, which is a major issue.
+  	- Driver side Cancellations (17.9%) are the biggest contributor and need immediate attention.
 2. Supply & Demand Gap
-  - 9.9% failure rate due to "Driver Not Found" indicates Potential Shortage of Drivers during certain hours.
+  	- 9.9% failure rate due to "Driver Not Found" indicates Potential Shortage of Drivers during certain hours.
 3. Fluctuating Ride Volume:
-  - While the system makes moderate consistency, noticable dips suggests opportunities for deeper analysis, 
-    possibly due to Technical issues or Drop in Demand.
+  	- While the system makes moderate consistency, noticable dips suggests opportunities for deeper analysis, 
+    	  possibly due to Technical issues or Drop in Demand.
 
 ### Suggested Solutions
 1. Reduce Driver Cancellations:
-  - Introduce penalty or incentive structures for consistent driver behavior.
-  - Provide better ride matching logic to avoid long pickup distances which often lead to cancellations.
-
+  	- Introduce penalty or incentive structures for consistent driver behavior.
+	- Provide better ride matching logic to avoid long pickup distances which often lead to cancellations.
 2. Improve Driver Allocation Algorithms:
-  - Use historical booking patterns to predict peak hours and proactively assign standby drivers.
-  - Focus on under-served zones using geo-location heat maps (possibly shown in further slides).
-
+  	- Use historical booking patterns to predict peak hours and proactively assign standby drivers.
+  	- Focus on under-served zones using geo-location heat maps (possibly shown in further slides).
 3. Enhance User Trust and Feedback:
-  - Add a reason-for-cancellation capture feature to get qualitative data.
-  - Use insights to design interventions such as:
-	- Re-engagement offers for canceled bookings.
-	- Priority matching for repeat users.
+  	- Add a reason-for-cancellation capture feature to get qualitative data.
+  	- Use insights to design interventions such as:
+		- Re-engagement offers for canceled bookings.
+	  	- Priority matching for repeat users.
 
 4. Analyze and Prepare for Booking Dips:
-  - Correlate booking dips with external events (e.g., weather, holidays) or system performance.
-  - Implement targeted marketing or surge driver supply in advance.
+  	- Correlate booking dips with external events (e.g., weather, holidays) or system performance.
+  	- Implement targeted marketing or surge driver supply in advance.
 

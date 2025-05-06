@@ -3,3 +3,7 @@ Ola dashboard offers a visually vibrant, data-rich overview of performance. With
 
 ## Dataset: 
 - <a href = "https://github.com/Riteshe3/Data-Analysis-Ola-Cabs-/blob/main/Bookings-20000-Rows.xlsx">Ola Cabs Data</a>
+
+## Dashboard cover
+![Ola Dashboard 1](https://github.com/user-attachments/assets/af176968-9868-4600-baae-3c9f1e766a86)
+

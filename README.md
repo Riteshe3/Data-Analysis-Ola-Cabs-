@@ -139,4 +139,94 @@ Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high depend
   	- Understand what ride types these top customers prefer and replicate conditions to convert mid-tier users 
     	  to high-value.
 
+# Revenue
+## Key Metrics:
+1. Total Bookings (Attempted): 12,652
+2. Total Successful Booking Value: ₹6,900,234
+3. Average Booking Value: ₹545.4
+
+4. Booking Value by Payment mode
+  - Cash: ₹3,821,738 (55.4%)
+
+  - UPI: ₹2,763,547 (40.0%)
+
+  - Credit Card: ₹249,494 (3.6%)
+
+  - Debit Card: ₹65,455 (0.9%)
+
+Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high dependence on instant payment methods.
+	 But still Cash Dominates.
+
+## Problem Identification Insights
+1. Heavy Dependence on Cash
+  - Cash dominates with 55.4% of revenue.
+  - This increases risk of fraud, reconciliation errors, and poor tracking.
+
+## Suggested Solutions
+1. Promote Digital Payments
+  - Offer UPI/Card incentives (discounts, loyalty points).
+  - Use driver training to nudge digital transactions.
+
+2. Analyze Spend Patterns
+  - Understand what ride types these top customers prefer and replicate conditions to convert mid-tier users 
+    to high-value.
+
+
+## Cancellations
+### Key Metrics:
+1. Total Bookings: 20,407
+2. Successful Bookings: 12,652
+3. Total Canceled Bookings: 5,735
+4. Bookings Canceled due to Driver Not Found: 2,020
+5. Overall Cancellation Rate: 28.10%
+
+- Note: Nearly 3 in every 10 rides are getting canceled, which impacts both customer satisfaction and driver productivity.
+
+### Cancellations by Customer
+1. Total Customer Cancellations: 2,081
+2. Avg. Customer Arrival Time: 85.18 seconds
+
+- Reasons & Cancelled Rides count:
+	- Driver is not moving towards pickup 610 (29.31%)
+	- Asked to cancel   - 	552	26.53%
+	- Change of plans   -	408	19.61%
+	- AC is not working -	320	15.38%
+	- Wrong address	    - 	191	9.18%
+
+-Insight: Over 55% of customer cancellations are due to driver-side behavioral or service issues 
+	  (not moving, asking to cancel, no AC).
+
+### Cancellations by Driver
+1. Total Driver Cancellations: 3,654
+2. Avg. Vehicle Arrival Time: 170.64 seconds
+
+- Reasons & Cancelled Rides count:
+	- Personal & Car related issue-	1,263	34.56%
+	- Customer-related issue    -	1,064	29.12%
+	- Customer was coughing/sick-	742	20.30%
+	- More than permitted people-	585	16.01%
+
+- Insight: The top reason here is driver personal/car issues, which indicates poor vehicle preparedness and 
+ 	   weak attendance control. Health concerns and over-capacity are also growing triggers.
+
+
+### Problem Identification Insights
+1. High Cancellation Rate at 28.10% is above industry best practices (which is usually <15%).
+2. Driver-initiated cancellations are nearly double compared to customer-initiated — damaging platform trust.
+3. Driver not moving and asking customer to cancel are repeat violations that indicate poor compliance or lack of incentive alignment.
+4. AC not working and vehicle condition issues point to fleet quality gaps.
+
+### Suggested Solutions
+
+1. Incentive Penalties for Cancellations
+	- Penalize drivers who frequently ask customers to cancel or fail to move towards pickup.
+	- Reward low-cancellation drivers with performance bonuses.
+2. Vehicle & Driver Readiness Audits
+	- Mandatory health and vehicle checks before shift starts.
+	- Block access if AC or vehicle health isn’t up to mark.
+3. Reduce Cancellations Repeated Patterns
+	- If a customer or driver has repeated cancellation reasons (like “wrong address” or “more than allowed people”), show pre-alerts or auto-correct addresses.
+4. Customer live updates and Feedback
+	- Use real-time status tracking to assure customers of movement and estimated pickup time.
+	- Introduce an option to report drivers who request cancellation directly in the app.
 

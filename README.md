@@ -33,3 +33,46 @@ like UPI, Credit/Debit card still lags, indicating comparative low digital adopt
 This Power BI dashboard was developed to analyze and visualize these key metrics, providing actionable insights
 to help Ola optimize performance and enhance the customer experience.
 
+## Summary
+![Summary 2](https://github.com/user-attachments/assets/bcb76e6a-7155-463c-924a-555ceb4a5fe5)
+
+###Key Metrics:
+- Total Bookings: 20,407
+- Total Bookings Value: 6,900,234
+- Booking Status Breakdown:
+  - Sucessfully Bookings: 62% = 12,653 Bookings
+  - Cancelled by Driver: 17.9% = 3,657 Bookings
+  - Cancelled by Customer: 10.2% = 2,080 Bookings
+  - Driver not Found: 9.9% = 2,015 Bookings
+- Ride Volume Over Time: Bookings Fluctuate between 645 to 700, with noticeable dips around 16-17 July and 
+25-27 July.
+
+### Problem Identification Insights
+1. High Cancellation Rate:
+  - Nearly 38% of all bookings failed, which is a major issue.
+  - Driver side Cancellations (17.9%) are the biggest contributor and need immediate attention.
+2. Supply & Demand Gap
+  - 9.9% failure rate due to "Driver Not Found" indicates Potential Shortage of Drivers during certain hours.
+3. Fluctuating Ride Volume:
+  - While the system makes moderate consistency, noticable dips suggests opportunities for deeper analysis, 
+    possibly due to Technical issues or Drop in Demand.
+
+### Suggested Solutions
+1. Reduce Driver Cancellations:
+  - Introduce penalty or incentive structures for consistent driver behavior.
+  - Provide better ride matching logic to avoid long pickup distances which often lead to cancellations.
+
+2. Improve Driver Allocation Algorithms:
+  - Use historical booking patterns to predict peak hours and proactively assign standby drivers.
+  - Focus on under-served zones using geo-location heat maps (possibly shown in further slides).
+
+3. Enhance User Trust and Feedback:
+  - Add a reason-for-cancellation capture feature to get qualitative data.
+  - Use insights to design interventions such as:
+	- Re-engagement offers for canceled bookings.
+	- Priority matching for repeat users.
+
+4. Analyze and Prepare for Booking Dips:
+  - Correlate booking dips with external events (e.g., weather, holidays) or system performance.
+  - Implement targeted marketing or surge driver supply in advance.
+

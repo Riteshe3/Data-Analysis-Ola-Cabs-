@@ -200,3 +200,25 @@ Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high depend
 	- Use real-time status tracking to assure customers of movement and estimated pickup time.
 	- Introduce an option to report drivers who request cancellation directly in the app.
 
+## Ratings
+![Ratings 7](https://github.com/user-attachments/assets/238dac24-ff07-4b81-90eb-0b8f6027c63a)
+
+### Key Metrics:
+
+1. Successful Bookings: 12,652
+2. Overall Ratings: 4.0
+3. Avg.Customer Arrival Time: 84-86 secs
+4. Avg.Driver Arrival Time: 168-172 secs
+
+### Problem Identification Insights
+1. Top-Rated Vehicles Like Prime Plus Have Lower Bookings
+	- Suggests quality isn’t translating into demand, potentially due to pricing or visibility issues.
+2. Arrival Time Gaps Exist (Vehicle vs. Customer)
+	- Even a 5–10 second gap at scale can impact driver idle time and customer satisfaction.
+
+### Suggested Solutions
+1. Top-Rated Vehicles Are Underbooked
+	- Prime Plus and Prime SUV have some of the highest driver ratings but relatively fewer bookings compared to Mini or Auto.
+2. Arrival Time Optimization Needed
+	- Vehicle arrival times average around 170–172 seconds, while customer arrival times are in the 83–86 second range.
+	- While reasonably aligned, the difference between best and worst arrival times is still 9 seconds for vehicles and 3 seconds for customers.

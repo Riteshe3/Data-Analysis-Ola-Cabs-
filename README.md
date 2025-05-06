@@ -34,7 +34,7 @@ This Power BI dashboard was developed to analyze and visualize these key metrics
 to help Ola optimize performance and enhance the customer experience.
 
 ## Summary
-![Summary 2](https://github.com/user-attachments/assets/bcb76e6a-7155-463c-924a-555ceb4a5fe5)
+![Summary 2](https://github.com/user-attachments/assets/93576d5c-abfe-4a34-bd48-debde1a1bb2a)
 
 ### Key Metrics:
 - Total Bookings: 20,407
@@ -75,7 +75,7 @@ to help Ola optimize performance and enhance the customer experience.
   	- Implement targeted marketing or surge driver supply in advance.
 
 ## Bookings
-![Bookings 2](https://github.com/user-attachments/assets/1e9c97f4-db62-4877-98d2-222a0ffd1fe2)
+![Bookings 2](https://github.com/user-attachments/assets/44856161-eb14-4402-a4e2-de0e7016946d)
 
 ### Key Metrics:
 1. Total Successful Bookings: 12,652
@@ -111,7 +111,7 @@ to help Ola optimize performance and enhance the customer experience.
   	- Improve pickup time predictions using real-time traffic, weather, and demand patterns
 
 ## Revenue
-![Revenue 4](https://github.com/user-attachments/assets/f97ab636-d1c9-4840-8321-69c25f3c283e)
+![Revenue 4](https://github.com/user-attachments/assets/b938388b-88c1-4b02-a5c7-3949101f2c0e)
 
 ### Key Metrics:
 1. Total Bookings (Attempted): 12,652
@@ -141,7 +141,7 @@ Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high depend
 
 
 ## Cancellations
-![Cancelations 5](https://github.com/user-attachments/assets/ee688858-550d-46e9-91bc-1af5717f2590)
+![Cancelations 5](https://github.com/user-attachments/assets/60f4b8e6-81ac-4eb7-b948-76fc822e2743)
 
 ### Key Metrics:
 1. Total Bookings: 20,407
@@ -201,7 +201,7 @@ Insight: Over 95% of revenue comes from Cash and UPI, highlighting a high depend
 	- Introduce an option to report drivers who request cancellation directly in the app.
 
 ## Ratings
-![Ratings 7](https://github.com/user-attachments/assets/238dac24-ff07-4b81-90eb-0b8f6027c63a)
+![Ratings 7](https://github.com/user-attachments/assets/fdb8bf85-345a-4e72-981d-5c028a82e58c)
 
 ### Key Metrics:
 
